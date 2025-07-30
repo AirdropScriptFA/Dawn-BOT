@@ -24,7 +24,7 @@ Dawn Validator BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Dawn-BOT.git
+   git clone https://github.com/AirdropScriptFA/Dawn-BOT.git
    ```
    ```bash
    cd Dawn-BOT
